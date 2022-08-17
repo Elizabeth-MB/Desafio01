@@ -1,0 +1,11 @@
+{
+  "name": "desafio_01_clases",
+  "version": "1.0.0",
+  "description": "Clases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elizabeth Martínez",
+  "license": "ISC"
+}
